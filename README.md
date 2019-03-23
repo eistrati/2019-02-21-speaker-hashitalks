@@ -1,7 +1,7 @@
 # Speaker @ HashiTalks
 
 ## Virtual Global Event | February 21st, 2019
-https://hashicorpalldayhashitalks.splashthat.com
+https://www.hashicorp.com/resources/terraform-serverless-best-practices-lessons-learned
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WkPIrfW7JWA"
   target="_blank"><img src="http://img.youtube.com/vi/WkPIrfW7JWA/0.jpg"
